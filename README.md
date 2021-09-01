@@ -6,7 +6,7 @@
 <hr>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dionnenoellabarretto&theme=dark)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dionnenoellabarretto&theme=nightowl)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) 
 
 ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionnenoellabarretto&show_icons=true&theme=nightowl)
 
