@@ -19,9 +19,10 @@ Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 <hr>
 
 <h3 align="left">Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!:</h3>
- 👉[The Power of Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
+
+ 👉[The Power of Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) 
  
- 👉[How to Make Best Use of the Most Important Tool in a Software Developer’s Toolkit: Your Brain](https://www.youtube.com/watch?v=XOIDnNA9N7c) by [Barbara Oakley](https://barbaraoakley.com/) & [Zach Caceres](https://github.com/zcaceres) coordinated by [Jessica Rose](https://github.com/jessicarose)
+ 👉[How to Make Best Use of the Most Important Tool in a Software Developer's Toolkit - Your Brain](https://www.youtube.com/watch?v=XOIDnNA9N7c) by [Barbara Oakley](https://barbaraoakley.com/) & [Zach Caceres](https://github.com/zcaceres) coordinated by [Jessica Rose](https://github.com/jessicarose) 
  
  👉[Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by [Angela Lee Duckworth](https://angeladuckworth.com/)
  
