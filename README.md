@@ -30,6 +30,3 @@ Quick link to [my Certification Badges](https://www.credly.com/users/dionne-noel
  👉[Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by [Angela Lee Duckworth](https://angeladuckworth.com/)
  
  <hr>
-
-<br>
-⭐ [EdX Certification - CAD101EN: Introduction to Cloud Development with HTML, CSS, and JavaScript](https://courses.edx.org/certificates/876d0378e042424089c822dc594a7251) by [IBM](https://learning.edx.org/course/course-v1:IBM+CAD101EN+2T2020/home)
