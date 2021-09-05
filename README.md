@@ -1,4 +1,4 @@
-Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Dionne Noella (you can call me 'Dion')! Here's where you can check [my Portfolio](https://dionnenoellabarretto.github.io/DionneNoellaBarretto_Portfolio/)! and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync!  ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
+Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Dionne Noella (you can call me 'Dion')! Here's where you can check [my Portfolio](https://dionnenoellabarretto.github.io/DionneNoellaBarretto_Portfolio/) and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync!  ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
 
 Quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)
 
