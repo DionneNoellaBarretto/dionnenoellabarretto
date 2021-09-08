@@ -14,7 +14,9 @@ Github Profile Trophies: <br>
 <br>
 
 ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionnenoellabarretto&show_icons=true&theme=nightowl)             [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dionnenoellabarretto&theme=nightowl)](https://git.io/streak-stats)
-
+  <a href="https://github.com/dionnenoellabarretto/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=dionnenoellabarretto&theme=react-dark&hide_border=true">
+  </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) 
 
 
