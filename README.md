@@ -2,6 +2,9 @@ Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 
 Quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=darkhub)](https://github.com/DionneNoellaBarretto/github-profile-trophy)
+
+
 <hr>
 <h3 align="left">Feel free to connect with me on :</h3> <p align="left"> <a href="https://linkedin.com/in/dionnenoellabarretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dionnenoellabarretto" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/dionne-noella-barretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dionne-noella-barretto" height="30" width="40" /></a> <a href="https://codepen.io/denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="denverdionne" height="30" width="40" /></a>
 <a href="https://dev.to/dionnenoellabarretto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dionnenoellabarretto" height="30" width="40" /></a> <a href="https://medium.com/@denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@denverdionne" height="30" width="40" /></a> <a href="https://www.youtube.com/c/dionne noella barretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dionne noella barretto" height="30" width="40" /></a> <a href="https://www.codechef.com/users/dinoba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dinoba" height="30" width="40" /></a> <a href="https://www.hackerrank.com/denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="denverdionne" height="30" width="40" /></a> <a href="https://www.leetcode.com/dionnenoellabarretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dionnenoellabarretto" height="30" width="40" /></a><a href="https://replit.com/@DionneNoellaBar" target="blank"><img width="30" height="40" alt="Repl.it logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="dionnenoellabarretto" height="30" width="40" /></a></p>
@@ -25,9 +28,6 @@ Quick link to [my Certification Badges](https://www.credly.com/users/dionne-noel
  👉[Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by [Angela Lee Duckworth](https://angeladuckworth.com/)
 
 <hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=onedark)](https://github.com/dionnenoellabarretto/github-profile-trophy)
-
 
 <details> <summary> Languages and Tools I dabble in include: </summary>
 
