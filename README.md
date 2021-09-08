@@ -2,7 +2,8 @@ Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 
 Quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=darkhub)](https://github.com/DionneNoellaBarretto/github-profile-trophy)
+Github Profile Trophies: <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)
 
 
 <hr>
