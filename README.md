@@ -26,6 +26,9 @@ Quick link to [my Certification Badges](https://www.credly.com/users/dionne-noel
 
 <hr>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=onedark)](https://github.com/dionnenoellabarretto/github-profile-trophy)
+
+
 <details> <summary> Languages and Tools I dabble in include: </summary>
 
  <summary> ☁ Cloud / Respository Hosting </summary>
