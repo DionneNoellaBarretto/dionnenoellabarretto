@@ -9,15 +9,11 @@
 <img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion'), an aspiring Full Stack Developer! Here's where you can check [my Portfolio](https://dionnenoellabarretto.github.io/DionneNoellaBarretto_Portfolio/) and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! A quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges). 
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
 </p>
-   
   
 <h3 align="left"> Github Profile Trophies:</h3>  
-
-  <p align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)
-  
-</p>
+<p align="center"> 
+      
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p>
 
 <hr>
 <p align="center">
