@@ -6,18 +6,25 @@
 
   <p align="center">
   
-<img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion')! Here's where you can check [my Portfolio](https://dionnenoellabarretto.github.io/DionneNoellaBarretto_Portfolio/) and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! A quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges). 
+<img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion'), an aspiring Full Stack Developer! Here's where you can check [my Portfolio](https://dionnenoellabarretto.github.io/DionneNoellaBarretto_Portfolio/) and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! A quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges). 
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
 </p>
    
-Github Profile Trophies: <br>
-    <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)
+  
+<h3 align="left"> Github Profile Trophies:</h3>  
+
+  <p align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)
+  
 </p>
+
 <hr>
 <p align="center">
-<h3 align="left">Feel free to connect with me on :</h3> <p align="center"> <a href="https://linkedin.com/in/dionnenoellabarretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dionnenoellabarretto" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/dionne-noella-barretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dionne-noella-barretto" height="30" width="40" /></a> <a href="https://codepen.io/denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="denverdionne" height="30" width="40" /></a>
-<a href="https://dev.to/dionnenoellabarretto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dionnenoellabarretto" height="30" width="40" /></a> <a href="https://medium.com/@denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@denverdionne" height="30" width="40" /></a> <a href="https://www.youtube.com/c/dionne noella barretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dionne noella barretto" height="30" width="40" /></a> <a href="https://www.codechef.com/users/dinoba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dinoba" height="30" width="40" /></a> <a href="https://www.hackerrank.com/denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="denverdionne" height="30" width="40" /></a> <a href="https://www.leetcode.com/dionnenoellabarretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dionnenoellabarretto" height="30" width="40" /></a><a href="https://replit.com/@DionneNoellaBar" target="blank"><img width="30" height="40" alt="Repl.it logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="repl.it logo" height="30" width="60" /></a><a href="https://edabit.com/user/v5xC75HeJryHqRSZb" target="blank"><img width="40" height="60" alt="Edabit logo" src="https://s3.amazonaws.com/edabit-images/monster003.png" alt="edabit logo" height="30" width="70" /></a></p>
+<h3 align="left"> 
+  Feel free to connect with me on: </h3> 
+  <p align="center"> <a href="https://edabit.com/user/v5xC75HeJryHqRSZb" target="blank"><img width="45" height="40" alt="Edabit logo" src="https://s3.amazonaws.com/edabit-images/monster003.png" alt="edabit logo" height="30" width="70" /></a><a href="https://linkedin.com/in/dionnenoellabarretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dionnenoellabarretto" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/dionne-noella-barretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dionne-noella-barretto" height="30" width="40" /></a> <a href="https://codepen.io/denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="denverdionne" height="30" width="40" /></a>
+<a href="https://dev.to/dionnenoellabarretto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dionnenoellabarretto" height="30" width="40" /></a> <a href="https://medium.com/@denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@denverdionne" height="30" width="40" /></a> <a href="https://www.youtube.com/c/dionne noella barretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dionne noella barretto" height="30" width="40" /></a> <a href="https://www.codechef.com/users/dinoba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dinoba" height="30" width="40" /></a> <a href="https://www.hackerrank.com/denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="denverdionne" height="30" width="40" /></a> <a href="https://www.leetcode.com/dionnenoellabarretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dionnenoellabarretto" height="30" width="40" /></a><a href="https://replit.com/@DionneNoellaBar" target="blank"><img width="30" height="40" alt="Repl.it logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="repl.it logo" height="30" width="60" /></a></p>
 </p>
 <hr>
 <br>
@@ -50,7 +57,7 @@ Github Profile Trophies: <br>
 
 <hr>
 
-<h3 align="left">Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!:</h3>
+<h3 align="left"> Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!: </h3>
 <p align="center">
   
  👉[The Power of Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) by [Carol Dweck](https://profiles.stanford.edu/carol-dweck)
@@ -62,7 +69,7 @@ Github Profile Trophies: <br>
 </p>
 <hr>
 
-<details> <summary> Languages and Tools I dabble in include: </summary>
+<details> <summary> Languages and Tools I dabble in include:</summary>
 
  <summary> ☁ Cloud / Respository Hosting </summary>
   <br>  <br>
@@ -78,7 +85,7 @@ Github Profile Trophies: <br>
   <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
   </p>
  <br>   <br>
- <summary> <img src="https://www.elemental.co.za/cms/resources/uploads/blog/86/926f6aaba773.png"  alt="API logo" height="30" width="50"> API Testing </summary>
+ <summary> <img src="https://www.elemental.co.za/cms/resources/uploads/blog/86/926f6aaba773.png"  alt="API logo" height="30" width="40"> API Testing </summary>
   <br> <p align="center">
  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
 </p>
