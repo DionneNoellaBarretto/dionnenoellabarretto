@@ -18,7 +18,7 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TITLE: true
-          API_BASE_URL: https://wakapi.dev/api
+
 
           
 
