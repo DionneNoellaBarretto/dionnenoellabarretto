@@ -55,6 +55,7 @@
 <p align="center">
 <h3 align="left"> 
   Waka Time Stats: </h3> 
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   4 hrs 44 mins   ███████████████▒░░░░░░░░░   61.31 % 
@@ -64,7 +65,7 @@ HTML         11 mins         ▓░░░░░░░░░░░░░░░░
 JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 <!--END_SECTION:waka-->
-
+  </p>
 <hr>
 
 <h3 align="left"> Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!: </h3>
