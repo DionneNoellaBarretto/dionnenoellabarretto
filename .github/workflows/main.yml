@@ -23,7 +23,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: "Automated WAKA Coding Activity Update :alien:"
           SHOW_SHORT_INFO: "True"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
