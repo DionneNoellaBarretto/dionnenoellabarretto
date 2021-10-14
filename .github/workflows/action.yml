@@ -1,23 +1,3 @@
-# name: Waka Readme
-
-# on:
-#   schedule:
-#     # Runs EVERY 5 MINUTES
-#     - cron: "5 * * * *"
-
-# jobs:
-#   update-readme:
-#     name: Update Readme with Metrics
-#     runs-on: ubuntu-latest
-# #     https://github.com/athul/waka-readme
-#     steps: 
-#       - uses:
-#         with:
-#           REPOSITORY: DionneNoellaBarretto/dionnenoellabarretto
-#           WAKATIME_API_KEY: 
-#           API_BASE_URL: https://wakapi.dev/api
-# #           GH_TOKEN: 
-
 
 name: WakaTime status update 
 
