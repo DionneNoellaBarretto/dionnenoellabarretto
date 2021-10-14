@@ -1,23 +1,50 @@
-name: Waka Readme
+# name: Waka Readme
+
+# on:
+#   schedule:
+#     # Runs EVERY 5 MINUTES
+#     - cron: "5 * * * *"
+
+# jobs:
+#   update-readme:
+#     name: Update Readme with Metrics
+#     runs-on: ubuntu-latest
+# #     https://github.com/athul/waka-readme
+#     steps: 
+#       - uses:
+#         with:
+#           REPOSITORY: DionneNoellaBarretto/dionnenoellabarretto
+#           WAKATIME_API_KEY: 
+#           API_BASE_URL: https://wakapi.dev/api
+# #           GH_TOKEN: 
+
+
+name: WakaTime status update 
 
 on:
   schedule:
-    # Runs EVERY 5 MINUTES
-    - cron: "5 * * * *"
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: '1 0 * * *'
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
-#     https://github.com/athul/waka-readme
-    steps: 
-      - uses: DionneNoellaBarretto/dionnenoellabarretto@main
+    steps:
+      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
+      # Do not change the line below until you have forked this repository
+      # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
+      - uses:  DionneNoellaBarretto/dionnenoellabarretto@main
         with:
-          REPOSITORY: DionneNoellaBarretto/dionnenoellabarretto
+          # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: 5ce19e04-14e6-447b-b75f-4e010fc9840c
-          API_BASE_URL: https://wakapi.dev/api
-#           GH_TOKEN: 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
-          SHOW_SHORT_INFO: "True"
+          # Automatic github token
+          GITHUB_TOKEN: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
+          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
+          BRANCH: "MAIN"
+          # Manual Commit messages - write your own messages here
+          COMMIT_MSG: "Automated WAKA Coding Activity Update :alien:"
+                    SHOW_SHORT_INFO: "True"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "True"
