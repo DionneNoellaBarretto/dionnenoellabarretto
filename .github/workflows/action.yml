@@ -2,7 +2,8 @@ name: WakaTime status update
 
 on:
   push:
-        branches: [main]
+        branches: 
+        - main
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: '1 0 * * *'
@@ -15,7 +16,7 @@ jobs:
       - uses:  DionneNoellaBarretto/dionnenoellabarretto@main
         with:
           WAKATIME_API_KEY: 5ce19e04-14e6-447b-b75f-4e010fc9840c
-          GITHUB_TOKEN: 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
+          GH_TOKEN: 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
           BRANCH: "main"
           COMMIT_MSG: "Automated WAKA Coding Activity Update :alien:"
           SHOW_SHORT_INFO: "True"
