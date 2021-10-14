@@ -25,8 +25,8 @@
 <hr>
 <br>
 <p align="center"> 
-<h3 align="left"> 
-  GitHub Stats: </h3> 
+<h3 align="center"> 
+  🐱 GitHub Stats: </h3> 
   
   ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionnenoellabarretto&show_icons=true&theme=nightowl)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats)       
   
@@ -42,24 +42,13 @@
 
 <hr>
 <p align="center">
-<h3 align="left"> 
-  Waka Time Stats: </h3> 
-
+<h3 align="center"> 
+  Waka Time Stats
+  
+  [![Waka Time Stats:](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml) </h3> 
+<p align="center">
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 912 Contributions in the Year 2021
- > 
-> 📦 802.6 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 93 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -119,9 +108,10 @@ SCSS                     1 repo              ░░░░░░░░░░░�
  Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
   </p>
+   </p>
 <hr>
 
-<h3 align="left"> Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!: </h3>
+<h3 align="center"> Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!: </h3>
 <p align="center">
   
  👉[The Power of Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) by [Carol Dweck](https://profiles.stanford.edu/carol-dweck)
@@ -133,7 +123,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 </p>
 <hr>
 
-<h3 align="left"> Languages and Tools I dabble in include:</h3> 
+<h3 align="center"> Languages and Tools I dabble in include:</h3> 
   
 <table width="100">
 <tr>
