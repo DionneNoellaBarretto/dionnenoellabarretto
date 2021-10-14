@@ -52,7 +52,9 @@
 </p>
 
 <hr>
-
+<p align="center">
+<h3 align="left"> 
+  Waka Time Stats: </h3> 
 <!--START_SECTION:waka-->
 ```text
 JavaScript   4 hrs 44 mins   ███████████████▒░░░░░░░░░   61.31 % 
