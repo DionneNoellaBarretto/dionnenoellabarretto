@@ -12,7 +12,7 @@ jobs:
     steps:
     #https://github.com/lowlighter/metrics/discussions/448
     -uses: actions/checkout
-      - uses: DionneNoellaBarretto/dionnenoellabarretto@main
+#       - uses: DionneNoellaBarretto/dionnenoellabarretto@main
         with:
           WAKATIME_API_KEY: 0659006a-ade7-417d-a59d-6ce3bb35daf1
           GH_TOKEN: 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
