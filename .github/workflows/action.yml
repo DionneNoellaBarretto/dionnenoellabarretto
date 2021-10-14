@@ -11,10 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     #https://github.com/lowlighter/metrics/discussions/448
-#     - uses: DionneNoellaBarretto/dionnenoellabarretto@main
-      - uses: actions/checkout@v1
+      - uses: DionneNoellaBarretto/dionnenoellabarretto@main
         with:
-          WAKATIME_API_KEY: 0659006a-ade7-417d-a59d-6ce3bb35daf1
+          WAKATIME_API_KEY: 5ce19e04-14e6-447b-b75f-4e010fc9840c
           GH_TOKEN: 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
           SHOW_SHORT_INFO: "True"
           SHOW_OS: "False"
