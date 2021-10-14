@@ -15,9 +15,7 @@ jobs:
     steps:
       - uses:  DionneNoellaBarretto/dionnenoellabarretto@main
         with:
-          WAKATIME_API_KEY: 5ce19e04-14e6-447b-b75f-4e010fc9840c
-          GH_TOKEN: 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
-          BRANCH: "main"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MSG: "Automated WAKA Coding Activity Update :alien:"
           SHOW_SHORT_INFO: "True"
           SHOW_OS: "False"
