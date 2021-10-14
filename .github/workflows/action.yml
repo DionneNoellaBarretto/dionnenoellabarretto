@@ -1,18 +1,19 @@
-name: Waka
+name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST every 5 minutes as per https://crontab.guru/#5_*_*_*_* / https://github.com/anmol098/waka-readme-stats#update-your-readme 
-    - cron: '5 * * * *'
-  workflow_dispatch:
+    # Runs EVERY 5 MINUTES
+    - cron: "5 * * * *"
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    steps:
-    #https://github.com/lowlighter/metrics/discussions/448
+#     https://github.com/athul/waka-readme
+    steps: 
       - uses: DionneNoellaBarretto/dionnenoellabarretto@main
         with:
+          REPOSITORY: DionneNoellaBarretto/dionnenoellabarretto
           WAKATIME_API_KEY: 5ce19e04-14e6-447b-b75f-4e010fc9840c
           GH_TOKEN: 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
           SHOW_SHORT_INFO: "True"
