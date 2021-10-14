@@ -6,10 +6,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -23,9 +20,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TIME: "True"
-#           SHOW_OS: "False"
-#           SHOW_PROJECTS: "False"
-#           SHOW_COMMIT: "True"
-#           SHOW_DAYS_OF_WEEK: "True"
-#           SHOW_LANGUAGE: "True"
+
