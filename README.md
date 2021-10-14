@@ -8,6 +8,7 @@
   
 <img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion'), an aspiring Full Stack Developer! Here's where you can check [my Portfolio](https://dionnenoellabarretto.github.io/DionneNoellaBarretto_Portfolio/) and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! A quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges). 
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
+  [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
 </p>
   
 <h3 align="left"> Github Profile Trophies:</h3>  
@@ -45,7 +46,11 @@
 <h3 align="center"> 
   Waka Time Stats
   
+   [![wakatime](https://wakatime.com/badge/user/20247613-4fcc-41c2-995d-29cbf23ad80f.svg)](https://wakatime.com/@20247613-4fcc-41c2-995d-29cbf23ad80f)
+  
   [![Waka Time Stats:](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml) </h3> 
+  
+ 
 <p align="center">
 <!--START_SECTION:waka-->
 
@@ -99,15 +104,10 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/DionneNoellaBarretto/DionneNoellaBarretto/main/charts/bar_graph.png) 
-
-
  Last Updated on 14/10/2021
+    </p>
 <!--END_SECTION:waka-->
-  </p>
+
    </p>
 <hr>
 
