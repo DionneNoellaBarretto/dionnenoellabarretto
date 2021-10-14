@@ -18,6 +18,12 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-
-
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MSG: "Automated WAKA Coding Activity Update :alien:"
+          SHOW_SHORT_INFO: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
