@@ -1,0 +1,23 @@
+name: Waka Readme Stats
+
+on:
+  schedule:
+    # Runs at 12am IST every 5 minutes as per https://crontab.guru/#5_*_*_*_* / https://github.com/anmol098/waka-readme-stats#update-your-readme 
+    - cron: '5 * * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DionneNoellaBarretto/dionnenoellabarretto@main
+        with:
+          WAKATIME_API_KEY: 0659006a-ade7-417d-a59d-6ce3bb35daf1
+          GH_TOKEN: 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
+          SHOW_SHORT_INFO: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          
