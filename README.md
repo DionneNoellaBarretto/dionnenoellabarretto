@@ -10,38 +10,36 @@
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
   [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
 </p>
-  
-<h3 align="left"> Github Profile Trophies:</h3>  
-<p align="center"> 
-      
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p>
 
 <hr>
-<p align="center">
+ <p align="center">
 <h3 align="left"> 
   Feel free to connect with me on: </h3> 
   <p align="center"> <a href="https://edabit.com/user/v5xC75HeJryHqRSZb" target="blank"><img width="45" height="40" alt="Edabit logo" src="https://s3.amazonaws.com/edabit-images/monster003.png" alt="edabit logo" height="30" width="70" /></a><a href="https://linkedin.com/in/dionnenoellabarretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dionnenoellabarretto" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/dionne-noella-barretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dionne-noella-barretto" height="30" width="40" /></a> <a href="https://codepen.io/denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="denverdionne" height="30" width="40" /></a>
 <a href="https://dev.to/dionnenoellabarretto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dionnenoellabarretto" height="30" width="40" /></a> <a href="https://medium.com/@denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@denverdionne" height="30" width="40" /></a> <a href="https://www.youtube.com/c/dionne noella barretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dionne noella barretto" height="30" width="40" /></a> <a href="https://www.codechef.com/users/dinoba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dinoba" height="30" width="40" /></a> <a href="https://www.hackerrank.com/denverdionne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="denverdionne" height="30" width="40" /></a> <a href="https://www.leetcode.com/dionnenoellabarretto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dionnenoellabarretto" height="30" width="40" /></a><a href="https://replit.com/@DionneNoellaBar" target="blank"><img width="30" height="40" alt="Repl.it logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="repl.it logo" height="30" width="60" /></a></p>
 </p>
+  
+<h3 align="left"> Github Profile Trophies:</h3>  
+<p align="center"> 
+      
+|  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats)  | <a href="https://app.daily.dev/dnb"><img src="https://api.daily.dev/devcards/2b2ffde3884c4d9d8b089e028c6d6e2b.png?r=si5" width="400" alt="Dionne Noella Barretto's Dev Card"/></a> |
+|---| ---|
+
 <hr>
-<br>
+
 <p align="center"> 
 <h3 align="center"> 
   🐱 GitHub Stats: </h3> 
   
-  ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionnenoellabarretto&show_icons=true&theme=nightowl)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats)       
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dionnenoellabarretto&theme=nightowl)](https://git.io/streak-stats)
+ |  ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionnenoellabarretto&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dionnenoellabarretto&theme=nightowl)](https://git.io/streak-stats)     |
+| --- | --- |
 
-  <a href="https://github.com/dionnenoellabarretto/github-readme-activity-graph">
+<a href="https://github.com/dionnenoellabarretto/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=dionnenoellabarretto&theme=react-dark&hide_border=true">
-  </a> 
-  
-
-  
+  </a>
 </p>
-
 <hr>
+
 <p align="center">
 <h3 align="center"> 
   Waka Time Stats
