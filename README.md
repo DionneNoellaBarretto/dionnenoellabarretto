@@ -6,7 +6,7 @@
 
   <p align="center">
   
-<img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion'), an aspiring Full Stack Developer! Here's where you can check [my Portfolio](https://dionnenoellabarretto.github.io/DionneNoellaBarretto_Portfolio/) and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! A quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges). 
+<img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion'), an aspiring Full Stack Developer! Here's where you can check [my Portfolio](https://dnb-react-portfolio.netlify.app/index.html) and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! A quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges). 
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
   [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
 </p>
