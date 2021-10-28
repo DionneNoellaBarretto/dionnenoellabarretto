@@ -67,12 +67,15 @@
 </p>
 <hr>
   
-<!--   <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
+<!--  <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
     
-  <p align="center"> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/1298163055)
+ <p align="center"> 
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1298163055&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+    
   </p>
   
-  </h3>  -->
+  </h3>   -->
   
   
 <!-- <h3 align="center"> 📕 Latest Blog Posts -->
