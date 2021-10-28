@@ -20,9 +20,10 @@
 </p>
   
 <h3 align="left"> Github Profile Trophies:</h3>  
+
 <p align="center"> 
-      
-|  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats)  | <a href="https://app.daily.dev/dnb"><img src="https://api.daily.dev/devcards/2b2ffde3884c4d9d8b089e028c6d6e2b.png?r=si5" width="400" alt="Dionne Noella Barretto's Dev Card"/></a> |
+  
+|  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) <br/> [![DailyDev Status](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml)   | <a href="https://app.daily.dev/dnb"><img src="https://api.daily.dev/devcards/2b2ffde3884c4d9d8b089e028c6d6e2b.png?r=si5" width="400" alt="Dionne Noella Barretto's Dev Card"/></a> |
 |---| ---|
 
 <hr>
@@ -46,9 +47,10 @@
   
    [![wakatime](https://wakatime.com/badge/user/20247613-4fcc-41c2-995d-29cbf23ad80f.svg)](https://wakatime.com/@20247613-4fcc-41c2-995d-29cbf23ad80f)
   
-  [![Waka Time Stats:](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml) </h3> 
-  
+[![WakaTime Stats](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/waka.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/waka.yml)
  
+ 
+  
 <p align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
