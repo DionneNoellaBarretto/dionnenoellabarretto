@@ -47,9 +47,7 @@
   
    [![wakatime](https://wakatime.com/badge/user/20247613-4fcc-41c2-995d-29cbf23ad80f.svg)](https://wakatime.com/@20247613-4fcc-41c2-995d-29cbf23ad80f)
   
-[![WakaTime Stats](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/waka.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/waka.yml)
- 
- 
+[![WakaTime Stats](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml)
   
 <p align="center">
 <!--START_SECTION:waka-->
