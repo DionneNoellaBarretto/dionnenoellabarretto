@@ -52,12 +52,10 @@
  
   
 <p align="center">
-  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
-   </p>
+ </p>
+  
 <hr>
 
 <h3 align="center"> Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!: </h3>
