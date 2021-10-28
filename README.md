@@ -192,7 +192,7 @@
  
 </table>
 
-# Som of my top followers  
+  <h3 align="center"> 👣 Some of my top followers  : </h3>
 <!--START_SECTION:top-followers-->   
 <!--END_SECTION:top-followers--> 
 
