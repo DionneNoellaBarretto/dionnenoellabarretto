@@ -66,7 +66,14 @@
   
 </p>
 <hr>
-
+  
+<!--   
+<h3 align="center"> 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  </h3> 
+  <hr/> -->
+  
 <h3 align="center"> Languages and Tools I dabble in include:</h3> 
   
 <table width="100">
