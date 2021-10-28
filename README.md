@@ -67,6 +67,13 @@
 </p>
 <hr>
   
+<!--   <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
+    
+  <p align="center"> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/1298163055)
+  </p>
+  
+  </h3>  -->
+  
 <!--   
 <h3 align="center"> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
