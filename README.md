@@ -65,6 +65,14 @@
  👉[Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by [Angela Lee Duckworth](https://angeladuckworth.com/)
   
 </p>
+  <hr>
+  <h3 align = "center"> 💬 Random Quote: </h3>
+  <p align="center">
+    
+    > {content}
+    >
+    > {author}
+  </p>
 <hr>
   
 <!--  <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
