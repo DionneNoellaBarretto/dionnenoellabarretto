@@ -53,6 +53,9 @@
   
 <p align="center">
 <!--START_SECTION:waka-->
+```text
+Other   34 hrs 12 mins  █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
  </p>
   
