@@ -14,6 +14,7 @@
   - can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! 
   - & check out [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)!
   
+  ![](https://www.codewars.com/users/DionneNoellaBarretto/badges/small)
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
   [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
 </p>
@@ -166,7 +167,7 @@
     <td align='center'> <img src="https://user-images.githubusercontent.com/16610213/135729732-702eec94-668c-4ba6-9c06-6b92cdb083c3.png" alt="algoPractice" width="40" height="40">
  Algorithm Practice</td>
    <td align='center' width="190"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></td>
-   <td align='center' width="190"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></td>
+   <td align='center' width="190"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">  </td>
 </tr>
          <tr> 
       <td align='center'>💻 IDE
