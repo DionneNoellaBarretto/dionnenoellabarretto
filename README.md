@@ -2,11 +2,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30" width="330">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
+
 </p>
 
-  <p align="center">
+<p align="center">
   
-<img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion'), an aspiring Full Stack Developer! Here's where you can check [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio) and here's where you can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! A quick link to [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges). 
+<img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion') - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Aspiring+Full+Stack+Web+Developer!)](https://git.io/typing-svg)
+
+  Here's where you can check 
+  - [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio) 
+  - can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! 
+  - & check out [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)!
+  
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
   [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
 </p>
