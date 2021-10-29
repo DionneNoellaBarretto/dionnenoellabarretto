@@ -11,11 +11,11 @@
 
   Here's where you can check 
   - [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio) 
-  - can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync! 
+  - can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync!  
   - & check out [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)!
   
-  ![](https://www.codewars.com/users/DionneNoellaBarretto/badges/small)
-  ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)
+  ![](https://www.codewars.com/users/DionneNoellaBarretto/badges/small)  | 
+  ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)  | 
   [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
 </p>
 
