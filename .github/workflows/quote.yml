@@ -1,9 +1,11 @@
 name: Update Quote Readme
 
 on:
-  workflow_dispatch:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: 
+    - main
   schedule:
-    # Runs every hour
     - cron: "0 * * * *"
 
 jobs:
