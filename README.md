@@ -67,6 +67,7 @@
 <!--END_SECTION:waka-->
  </p>
   
+ 
 <hr>
 
 <h3 align="center"> Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!: </h3>
@@ -79,16 +80,9 @@
  👉[Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by [Angela Lee Duckworth](https://angeladuckworth.com/)
   
 </p>
-<!--   <hr>
-  <h3 align = "center"> 💬 Random Quote: </h3>
-  <p align="center">
-    
-    > {content}
-    >
-    > {author}
-  </p> -->
+
 <hr>
-  
+   ![snake gif](https://github.com/dionnenoellabarretto/dionnenoellabarretto/blob/output/github-contribution-grid-snake.svg)
 <!--  <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
     
  <p align="center"> 
@@ -175,13 +169,14 @@
    <td align='center' width="190"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></td>
    <td align='center' width="190"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">  </td>
 </tr> -->
-         <tr> 
+  
+<!--          <tr> 
       <td align='center'>💻 IDE
     </td>
     <td align='center'>  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </td>
         <td align='center'><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></td>
-      
-  </tr>
+  </tr> -->
+  
   <tr> 
     <td align='center'> 🖥 Database Technologies</td>
    <td align='center' width="190"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </td>
