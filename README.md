@@ -37,7 +37,7 @@
 
 <p align="center"> 
   
-|  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) <br/> [![DailyDev Status](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml)   | <a href="https://app.daily.dev/dnb"><img src="https://api.daily.dev/devcards/2b2ffde3884c4d9d8b089e028c6d6e2b.png?r=si5" width="400" alt="Dionne Noella Barretto's Dev Card"/></a> |
+|  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) | <a href="https://app.daily.dev/dnb"><img src="https://api.daily.dev/devcards/2b2ffde3884c4d9d8b089e028c6d6e2b.png?r=si5" width="400" alt="Dionne Noella Barretto's Dev Card"/></a> <br/> [![DailyDev Status](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml) 
 |---| ---|
 
 <hr>
