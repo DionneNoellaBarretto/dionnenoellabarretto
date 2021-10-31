@@ -156,7 +156,7 @@
     </td>
 </tr>
   <tr>
-    <td align='center'>🚀 Backend Web Development Frameworks  </td>
+    <td align='center'>🚀 Backend Frameworks  </td>
     <td align='center'> 
       <a href="https://nodejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="70" height="40"/> </a> 
     </td>
