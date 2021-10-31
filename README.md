@@ -4,13 +4,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30" width="330">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
-
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
-
 </p>
 
+#### 🔖 Random Quote or Fun-Fact: 
+<a align="center" href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+</a>
 
+<hr/> 
 <p align="center">
   
 <img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion') - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Aspiring+Full+Stack+Web+Developer!)](https://git.io/typing-svg)
