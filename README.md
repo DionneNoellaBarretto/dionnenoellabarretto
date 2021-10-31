@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
 </p>
 
-#### 🔖 Random Quote or Fun-Fact: 
+<!-- #### 🔖 Random Quote or Fun-Fact:  -->
 <a align="center" href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
