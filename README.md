@@ -6,9 +6,12 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
 
 
-#### 🔖 Random Quote or Fun-Fact:  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
-<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
+#### 🔖 Random Quote or Fun-Fact:  [![Update Quote Readme](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml)  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
+<i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
+  
+  
+  
 </p>
 <hr/>
 <p align="center">
@@ -82,7 +85,16 @@
 </p>
 
 <hr>
-   ![snake gif](https://github.com/dionnenoellabarretto/dionnenoellabarretto/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center"> 🐍 Watch this snake eat up my Git commits!: <h3/> 
+
+![snake gif](https://github.com/dionnenoellabarretto/dionnenoellabarretto/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> 
+
+[![Generate Snake](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/snakeRepo.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/snakeRepo.yml)    [ Credits: 👉 Platane/snk](https://github.com/Platane/snk) 
+</p>
+
+  
 <!--  <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
     
  <p align="center"> 
