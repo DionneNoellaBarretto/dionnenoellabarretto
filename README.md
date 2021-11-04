@@ -7,7 +7,7 @@
 
 
 #### 🔖 Random Quote or Fun-Fact:  [![Update Quote Readme](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml)  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
+<i>❝There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
   
   
