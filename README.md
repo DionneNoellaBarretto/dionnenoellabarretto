@@ -17,7 +17,7 @@
   - [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio) 
   - can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync!  
   - & check out [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)!
-  
+ 
   ![](https://www.codewars.com/users/DionneNoellaBarretto/badges/small)  | 
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)  | 
   [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
@@ -32,7 +32,6 @@
 </p>
   
 <h3 align="left"> Github Profile Trophies:</h3>  
-
 <p align="center"> 
   
 |  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) | <a href="https://app.daily.dev/dnb"><img src="https://api.daily.dev/devcards/2b2ffde3884c4d9d8b089e028c6d6e2b.png?r=si5" width="400" alt="Dionne Noella Barretto's Dev Card"/></a> <br/> [![DailyDev Status](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml) 
@@ -224,7 +223,7 @@
 <!--   <h3 align="center"> 👣 Some of my top followers  : </h3> -->
 <!--START_SECTION:top-followers-->   
 <!--END_SECTION:top-followers--> 
-
+  
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
