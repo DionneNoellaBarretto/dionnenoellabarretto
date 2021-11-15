@@ -36,4 +36,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE: "True"
           LOCALE: "True"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
