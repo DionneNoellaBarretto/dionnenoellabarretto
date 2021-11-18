@@ -60,10 +60,10 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-188-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 **🐱 My GitHub Data** 
-  
+
 > 🏆 1,318 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
@@ -74,7 +74,6 @@
  > 
 > 🔑 1 Private Repository 
  > 
-  
 **I'm a Night 🦉** 
 
 ```text
@@ -96,6 +95,7 @@ Saturday     107 commits    █████░░░░░░░░░░░░�
 Sunday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92%
 
 ```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -137,6 +137,8 @@ CSS                      1 repo              ░░░░░░░░░░░�
 SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 ```
+
+
 
  Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
