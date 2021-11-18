@@ -138,7 +138,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ```
 
 
-
  Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
  </p>
@@ -166,7 +165,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 [![Generate Snake](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/snakeRepo.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/snakeRepo.yml)    [ Credits: 👉 Platane/snk](https://github.com/Platane/snk) 
 </p>
 
-  
+ 
 <!--  <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
     
  <p align="center"> 
@@ -177,7 +176,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
   
   </h3>   -->
   
-  
+ 
 <!-- <h3 align="center"> 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
