@@ -43,7 +43,7 @@
   🐱 GitHub Stats: </h3> 
   
  |  ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionnenoellabarretto&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dionnenoellabarretto&theme=nightowl)](https://git.io/streak-stats)     |
-| --- | --- |
+| --- | --- | 
 
 <a href="https://github.com/dionnenoellabarretto/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=dionnenoellabarretto&theme=react-dark&hide_border=true">
@@ -63,7 +63,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-188-blue)
 
 **🐱 My GitHub Data** 
-
+  
 > 🏆 1,318 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
@@ -74,6 +74,7 @@
  > 
 > 🔑 1 Private Repository 
  > 
+  
 **I'm a Night 🦉** 
 
 ```text
@@ -95,7 +96,6 @@ Saturday     107 commits    █████░░░░░░░░░░░░�
 Sunday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92%
 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -137,8 +137,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 ```
-
-
 
  Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
