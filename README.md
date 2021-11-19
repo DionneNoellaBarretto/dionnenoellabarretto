@@ -49,6 +49,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=dionnenoellabarretto&theme=react-dark&hide_border=true">
   </a>
 </p>
+
 <hr>
 
 <p align="center">
