@@ -8,7 +8,7 @@ on:
     - main
   schedule:
 
-    - cron: "*/59 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   update-readme:
