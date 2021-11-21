@@ -61,7 +61,7 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
+ ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS) 
 
 **🐱 My GitHub Data** 
 
@@ -135,7 +135,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 ```
-
 
 
  Last Updated on 21/11/2021
