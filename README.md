@@ -184,7 +184,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1298163055&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
     
   </p>
-  
   </h3>   -->
   
 <!-- <h3 align="center"> 📕 Latest Blog Posts -->
