@@ -104,7 +104,6 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
