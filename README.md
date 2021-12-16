@@ -54,11 +54,11 @@
 ![Alt](https://repobeats.axiom.co/api/embed/b21379ce809929d18a17f2f2727bdd6ee03c30a7.svg "Repobeats analytics image")
 
 </p>
-
 <hr>
 
 <p align="center">
 <h3 align="center"> 
+  
   Waka Time Stats
   
 [![wakatime](https://wakatime.com/badge/user/20247613-4fcc-41c2-995d-29cbf23ad80f.svg)](https://wakatime.com/@20247613-4fcc-41c2-995d-29cbf23ad80f) | [![WakaTime Stats](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/main.yml)
