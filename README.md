@@ -49,7 +49,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=dionnenoellabarretto&theme=react-dark&hide_border=true">
   </a>
 
-<h3 align="center"> Repo Stats: </h3>
+<h3 align="center">Repo Stats: </h3>
 
 ![Alt](https://repobeats.axiom.co/api/embed/b21379ce809929d18a17f2f2727bdd6ee03c30a7.svg "Repobeats analytics image")
 
