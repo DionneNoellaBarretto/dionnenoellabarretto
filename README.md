@@ -7,7 +7,6 @@
 <i>❝In 1960, the computer at NORAD warned with 99.9% certainty that the Soviets had just launched a full-scale missile attack against North America. NORAD later discovered that the Early Warning System in Greenland had interpreted the moon rising over Norway as a missile attack from Siberia.❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
 
-  
 </p>
 <hr/>
 <p align="center">
@@ -300,7 +299,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
       <td align='center'>🧪 Testing  </td>
     <td align='center'>  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  </td>
   </tr>
-
 
 </table>
   
