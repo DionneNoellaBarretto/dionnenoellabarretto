@@ -24,7 +24,9 @@
   [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
 </p>
 
+
 <hr>
+
  <p align="center">
 <h3 align="left"> 
   Feel free to connect with me on: </h3> 
