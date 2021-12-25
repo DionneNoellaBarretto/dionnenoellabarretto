@@ -1,4 +1,5 @@
-<p align="center">
+
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30" width="330">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
@@ -8,7 +9,6 @@
   
 <i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
-
   
 </p>
 <hr/>
