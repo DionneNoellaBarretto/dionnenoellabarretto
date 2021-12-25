@@ -4,7 +4,7 @@
 
   
 #### 🔖 Random Quote or Fun-Fact:  [![Update Quote Readme](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml)  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
-<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
+<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
   
 </p>
