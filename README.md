@@ -5,13 +5,14 @@
 #### 🔖 Random Quote or Fun-Fact:  [![Update Quote Readme](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml)  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
 <i>❝“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
-  
+ 
 </p>
 <hr/>
 <p align="center">
   
 <img src="./hi.gif" width="40px">, I'm **Di**onne **No**ella (you can call me 'Dion') - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%234C62F7&size=24&center=true&vCenter=true&height=70&lines=Aspiring+Full+Stack+Web+Developer!)](https://git.io/typing-svg)
 
+  
   Here's where you can check 
   - [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio) 
   - can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync!  
@@ -21,7 +22,6 @@
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)  | 
   [![github](https://img.shields.io/github/followers/dionnenoellabarretto?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
 </p>
-
 
 <hr>
 
