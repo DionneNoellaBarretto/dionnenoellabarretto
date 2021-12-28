@@ -154,7 +154,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
  </p>
  
 <hr>
-
 <h3 align="center"> Here are some 'Pick Me Up' must watch videos that help me get through difficult days when I struggle with Coding Concepts!: </h3>
 <p align="center">
   
@@ -165,7 +164,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
  👉[Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by [Angela Lee Duckworth](https://angeladuckworth.com/)
   
 </p>
-
 <hr>
 <h3 align="center"> 🐍 Watch this snake eat up my Git commits!: <h3/> 
 
@@ -179,9 +177,9 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 <!--  <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
 
  <p align="center"> 
-    
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1298163055&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-    
+  
   </p>
   </h3>   -->
   
