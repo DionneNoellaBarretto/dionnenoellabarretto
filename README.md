@@ -164,7 +164,9 @@ SCSS                     1 repo              ░░░░░░░░░░░�
  👉[Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by [Angela Lee Duckworth](https://angeladuckworth.com/)
   
 </p>
+  
 <hr>
+  
 <h3 align="center"> 🐍 Watch this snake eat up my Git commits!: <h3/> 
 
 ![snake gif](https://github.com/dionnenoellabarretto/dionnenoellabarretto/blob/output/github-contribution-grid-snake.svg)
