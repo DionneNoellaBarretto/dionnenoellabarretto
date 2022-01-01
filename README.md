@@ -59,6 +59,7 @@
 <hr>
 
 <p align="center">
+  
 <h3 align="center"> 
 
 Waka Time Stats
@@ -177,11 +178,8 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 </p>
  
 <!--  <h3 align="center"> 🎵  I'm currently listening to this on Spotify!
-
- <p align="center"> 
- 
+<p align="center"> 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1298163055&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-  
   </p>
   </h3>   -->
   
