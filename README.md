@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
 
 #### 🔖 Random Quote or Fun-Fact:  [![Update Quote Readme](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml)  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
-<i>❝American mathematician Marion Tinsley played checkers for 45 years and lost only 7 games. He once beat a computer program, and later analysis showed that Tinsley had played the only possible winning strategy from 64 moves out.❞</i>
+<i>❝TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
  
 </p>
