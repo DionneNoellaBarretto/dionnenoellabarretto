@@ -68,7 +68,7 @@ Waka Time Stats
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -113,21 +113,16 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    13 hrs              ████████████████████████░   96.61% 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+Other                    29 hrs 30 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          13 hrs              ████████████████████████░   96.61% 
-VS Code                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+Google Calendar          29 hrs 30 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          13 hrs              ████████████████████████░   96.61% 
-Edureka-DevOpsMasters-Dev27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+Unknown Project          29 hrs 30 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               13 hrs              ████████████████████████░   96.61% 
-Windows                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+Unknown OS               29 hrs 30 mins      █████████████████████████   100.0%
 
 ```
 
@@ -148,7 +143,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DionneNoellaBarretto/DionneNoellaBarretto/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 18:37:29 UTC
+ Last Updated on 06/09/2022 05:03:26 UTC
 <!--END_SECTION:waka-->
  </p>
  
