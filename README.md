@@ -68,7 +68,7 @@ Waka Time Stats
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C760%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C772%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -113,16 +113,16 @@ Sunday       11 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    9 hrs               █████████████████████████   100.0%
+Other                    8 hrs               █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          9 hrs               █████████████████████████   100.0%
+Google Calendar          8 hrs               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs               █████████████████████████   100.0%
+Unknown Project          8 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               9 hrs               █████████████████████████   100.0%
+Unknown OS               8 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -143,7 +143,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DionneNoellaBarretto/DionneNoellaBarretto/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/01/2023 01:18:22 UTC
+ Last Updated on 30/01/2023 21:22:46 UTC
 <!--END_SECTION:waka-->
  </p>
  
