@@ -15,7 +15,7 @@
   Here's where you can check 
   - [my Portfolio](https://dionnenoellabarretto.github.io/20_DNB_React_Portfolio) 
   - can view [my calendar Availability](https://getcloud.withgoogle.com/schedule/dionnenoella?ln=en) for a quick sync!  
-  - & check out [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)!
+  - & check out [GCP Certs](https://googlecloudcertified.credential.net/profile/b94798b719bac11572243eb123e47bfa067e4b21?name=dionne) & [my Certification Badges](https://www.credly.com/users/dionne-noella-barretto/badges)!
  
   ![](https://www.codewars.com/users/DionneNoellaBarretto/badges/small)  | 
   ![](https://komarev.com/ghpvc/?username=dionnenoellabarretto&color=blue&label=PROFILE+VIEWS)  | 
