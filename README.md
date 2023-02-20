@@ -143,7 +143,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DionneNoellaBarretto/DionneNoellaBarretto/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2023 21:20:05 UTC
+ Last Updated on 20/02/2023 21:20:34 UTC
 <!--END_SECTION:waka-->
  </p>
  
