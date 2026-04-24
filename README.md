@@ -34,7 +34,7 @@
 <h3 align="left"> Github Profile Trophies:</h3>  
 <p align="center"> 
   
-|  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) | <a href="https://app.daily.dev/dnb"><img src="https://api.daily.dev/devcards/2b2ffde3884c4d9d8b089e028c6d6e2b.png?r=o12" width="400" alt="Dionne Noella Barretto's Dev Card"/></a> <br/> [![DailyDev Status](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml) 
+|  [![trophy](https://github-profile-trophy.vercel.app/?username=dionnenoellabarretto&theme=discord&no-bg=true)](https://github.com/DionneNoellaBarretto/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=dionnenoellabarretto&layout=compact&theme=nightowl)](https://github.com/DionneNoellaBarretto/github-readme-stats) | <a href="https://app.daily.dev/dnb"><img src="https://api.daily.dev/devcards/2b2ffde3884c4d9d8b089e028c6d6e2b.png?r=o12" width="400" alt="Dionne Noella Barretto's Dev Card"/></a> <br/> [![DailyDev Status](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml/badge.svg?branch=main)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/DevCard.yml) 
 |---| ---|
 
 <hr>
@@ -42,7 +42,7 @@
 <h3 align="center"> 
   🐱 GitHub Stats: </h3> 
   
- |  ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionnenoellabarretto&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dionnenoellabarretto&theme=nightowl)](https://git.io/streak-stats)     |
+ |  ![Dionne Noella's GitHub stats](https://github-readme-stats.shion.dev/api?username=dionnenoellabarretto&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dionnenoellabarretto&theme=nightowl)](https://git.io/streak-stats)     |
 | --- | --- | 
 
 <a href="https://github.com/dionnenoellabarretto/github-readme-activity-graph">
