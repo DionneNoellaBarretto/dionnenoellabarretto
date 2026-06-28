@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
 
 #### 🔖 Random Quote or Fun-Fact:  [![Update Quote Readme](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml)  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
+<i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
  
 </p>
