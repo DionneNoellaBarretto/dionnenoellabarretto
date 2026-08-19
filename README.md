@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
 
 #### 🔖 Random Quote or Fun-Fact:  [![Update Quote Readme](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml/badge.svg)](https://github.com/DionneNoellaBarretto/dionnenoellabarretto/actions/workflows/quote.yml)  <a align="center" href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.”— Donald E. Knuth   ❞</i>
+<i>❝“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   ❞</i>
 <!--ENDS_HERE_QUOTE_README--> </a>
  
 </p>
